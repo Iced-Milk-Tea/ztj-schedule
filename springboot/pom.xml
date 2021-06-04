@@ -14,7 +14,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>schedule</module>
+        <module>scheduleapi</module>
+        <module>scheduleapi</module>
     </modules>
 
     <properties>
